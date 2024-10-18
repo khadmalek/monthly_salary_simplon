@@ -46,9 +46,9 @@ Les données des employés sont fournies dans un fichier JSON qui contient toute
 
 ## OUTPUT
 
-![img](images/img_salary_Designworks.png)
-![img](images/img_salary_projectlead.png)
-![img](images/img_salary_techcorps.png)
+![img](images/img_DesignWorks.png)
+![img](images/img_ProjectLead.png)
+![img](images/img_TechCorps.png)
 ![img](images/img_satistiques.png)
 
 
